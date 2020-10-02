@@ -1,1 +1,1 @@
-Waifu-Box is pretty much an automated video download tool, just fill in the pirate_this.csv file and run the program and everything should run smoothly.
+Waifu-Box is a CLI video player that gets anime/hentai from a variety of FTP servers and then converts them to frames of ASCII characters which are then played in the terminal.
