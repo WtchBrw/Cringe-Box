@@ -30,7 +30,7 @@ def generate_frame(image, new_width=210):
 
 #Display ahegao art and then show numbers corresponfding with different player chices (which ftp server, what file path, what url, quit, etc)
 
-vid_source = cv2.VideoCapture("E:\YTDL\Anime\Canaan.mp4") #Grab url or file path to video
+vid_source = cv2.VideoCapture("[insert video url or ftp server link here]") #Grab url or file path to video
 
 while 1 == 1:
     ret, frame = vid_source.read()
