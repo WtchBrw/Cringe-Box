@@ -1,1 +1,1 @@
-Waifu-Box is a CLI video player that gets anime/hentai from a variety of FTP servers and then converts them to frames of ASCII characters which are then played in the terminal. Users can also play videos from local files or links.
+Waifu-Box is a CLI video player that gets video streams from FTP servers and then converts the frames to ASCII characters which are then played in the terminal. Users can also play videos from local files.
